@@ -53,5 +53,5 @@ SCSS：
 ```
 The effect is as follows（Click `HTML/SCSS` to edit the code）：
 
-<iframe height='350' scrolling='no' title='单标签借助 inset shdow 实现IE LOGO' src='//codepen.io/Chokcoco/embed/rqgGqR/?height=265&theme-id=0&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/Chokcoco/pen/rqgGqR/'>单标签借助 inset shdow 实现IE LOGO</a> by Chokcoco (<a href='https://codepen.io/Chokcoco'>@Chokcoco</a>) on <a href='https://codepen.io'>CodePen</a>.
+<iframe height='350' scrolling='no' title='Single label uses inset shdow to implement IE LOGO' src='//codepen.io/Chokcoco/embed/rqgGqR/?height=265&theme-id=0&default-tab=css,result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/Chokcoco/pen/rqgGqR/'>Single label uses inset shdow to implement IE LOGO</a> by Chokcoco (<a href='https://codepen.io/Chokcoco'>@Chokcoco</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>

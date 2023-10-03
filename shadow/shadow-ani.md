@@ -105,5 +105,5 @@ SCSS:
 
 The effect is as follows（Click `HTML/SCSS` to edit the code）：
 
-<iframe height='350' scrolling='no' title='box-shadow实现背景动画 ' src='//codepen.io/Chokcoco/embed/WaBYZL/?height=265&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/Chokcoco/pen/WaBYZL/'>box-shadow实现背景动画 </a> by Chokcoco (<a href='https://codepen.io/Chokcoco'>@Chokcoco</a>) on <a href='https://codepen.io'>CodePen</a>.
+<iframe height='350' scrolling='no' title='box-shadow implements background animation' src='//codepen.io/Chokcoco/embed/WaBYZL/?height=265&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/Chokcoco/pen/WaBYZL/'>box-shadow implements background animation</a> by Chokcoco (<a href='https://codepen.io/Chokcoco'>@Chokcoco</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>

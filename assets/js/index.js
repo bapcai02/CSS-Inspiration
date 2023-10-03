@@ -2,8 +2,8 @@ const gitalkConfig = {
   clientID: '38238cb03b9966294d48',
   clientSecret: '2550a359e8369c93d7dd1259f9db3984a117387f',
   repo: 'CSS-Inspiration',
-  owner: 'chokcoco',
-  admin: ['chokcoco'],
+  owner: 'hadv',
+  admin: ['hadv'],
   distractionFreeMode: false,
   language: "zh-CN",
   proxy: 'https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token'
@@ -12,7 +12,7 @@ const gitalkConfig = {
 window.$docsify = {
   loadSidebar: true,
   name: 'CSS Inspiration',
-  repo: 'https://github.com/chokcoco/CSS-Inspiration',
+  repo: 'https://github.com/bapcai02/CSS-Inspiration',
   // Complete configuration parameters
   search: {
     maxAge: 86400000, // Expiration time, in milliseconds, defaults to one day

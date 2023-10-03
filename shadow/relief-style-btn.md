@@ -164,8 +164,8 @@ button {
 
 The effect is as follows：
 
-<iframe height="600" style="width: 100%;" scrolling="no" title="Neomorphic Form | 浮雕风格按钮" src="https://codepen.io/Chokcoco/embed/mdWXmXN?default-tab=result&editable=true&theme-id=light" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<iframe height="600" style="width: 100%;" scrolling="no" title="Neomorphic Form | Embossed Style Button" src="https://codepen.io/Chokcoco/embed/mdWXmXN?default-tab=result&editable=true&theme-id=light" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/Chokcoco/pen/mdWXmXN">
-  Neomorphic Form | 浮雕风格按钮</a> by Chokcoco (<a href="https://codepen.io/Chokcoco">@Chokcoco</a>)
+  Neomorphic Form | Embossed Style Button</a> by Chokcoco (<a href="https://codepen.io/Chokcoco">@Chokcoco</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>

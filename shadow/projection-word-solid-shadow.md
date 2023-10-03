@@ -58,5 +58,5 @@ div {
 
 The effect is as follows（Click `HTML/SCSS` to edit the code）：
 
-<iframe height='350' scrolling='no' title='立体文字阴影' src='//codepen.io/Chokcoco/embed/JmgNNa/?height=265&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/Chokcoco/pen/JmgNNa/'>立体文字阴影</a> by Chokcoco (<a href='https://codepen.io/Chokcoco'>@Chokcoco</a>) on <a href='https://codepen.io'>CodePen</a>.
+<iframe height='350' scrolling='no' title='3D text shadow' src='//codepen.io/Chokcoco/embed/JmgNNa/?height=265&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/Chokcoco/pen/JmgNNa/'>3D text shadow</a> by Chokcoco (<a href='https://codepen.io/Chokcoco'>@Chokcoco</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>

@@ -23,7 +23,7 @@ HTML：
     </li>
     <li class="">
         <img src="https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" alt="">
-        <span>ChromeTab分栏实现</span>
+        <span>ChromeTab column implementation</span>
         <div class="close">﹢</div>
         <div class="line"></div>
     </li>
